@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97d0ade0-2509-437c-83be-5cb81fb3c736</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>bb0ca1d9-ba51-47f7-8cd0-80aba1aefbd1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>bb0ca1d9-ba51-47f7-8cd0-80aba1aefbd1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>f5a57124-518a-4b22-ac19-5a8230fc335e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>bb0ca1d9-ba51-47f7-8cd0-80aba1aefbd1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>6471c5be-5ed9-4f74-9063-157936072977</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f5a57124-518a-4b22-ac19-5a8230fc335e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6471c5be-5ed9-4f74-9063-157936072977</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

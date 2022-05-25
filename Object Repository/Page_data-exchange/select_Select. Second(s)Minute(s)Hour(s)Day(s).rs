@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select. Second(s)Minute(s)Hour(s)Day(s)</name>
+   <tag></tag>
+   <elementGuidId>146579c8-6cd7-4a66-b3f1-ee8655b3f040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__137</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FrequencyUofM']/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cfe5cfe5-0018-410e-8113-57338def59a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select custom-select-sm</value>
+      <webElementGuid>ef194ff8-8da5-43e6-99fd-7805b461433c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__BVID__137</value>
+      <webElementGuid>a323784c-dff8-4288-8d68-7209cc2871c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select... Second(s)Minute(s)Hour(s)Day(s)</value>
+      <webElementGuid>95c55736-d81b-44f5-8646-cefccfdb3097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__137&quot;)</value>
+      <webElementGuid>c7670845-7142-43ba-a810-fdc7cac24aea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='__BVID__137']</value>
+      <webElementGuid>be08df1b-9838-4490-ab16-3ec1d9de7470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FrequencyUofM']/select</value>
+      <webElementGuid>88204a33-8daf-4a64-b5ac-d2c0006e8c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency*'])[1]/following::select[2]</value>
+      <webElementGuid>3b7a8139-a94e-4fb2-8b5d-e79c7a676ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Zone*'])[1]/following::select[2]</value>
+      <webElementGuid>0e7253e9-0566-427b-abfe-6c44685550f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repeating'])[1]/preceding::select[1]</value>
+      <webElementGuid>9d0dd248-0201-4fa6-9b46-c94755adc028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunday'])[1]/preceding::select[1]</value>
+      <webElementGuid>b6b012d9-d6cd-4a21-95e2-ba9932451110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/select</value>
+      <webElementGuid>0bb48da3-3b5d-4e61-8300-665d49f35add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = '__BVID__137' and (text() = ' Select... Second(s)Minute(s)Hour(s)Day(s)' or . = ' Select... Second(s)Minute(s)Hour(s)Day(s)')]</value>
+      <webElementGuid>d3bd504f-d00e-438e-af62-59f1ae5fb303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

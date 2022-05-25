@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select. AmericaAdakAmericaChicagoAme_a55da8</name>
+   <tag></tag>
+   <elementGuidId>595cb3a6-46d0-49d8-8261-e17f92daf393</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__135</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TimeZoneValue']/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4abdee0c-0c9f-4749-8913-7bc7e5602eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select custom-select-sm</value>
+      <webElementGuid>d587c922-5f23-4f6f-a4de-43e7cd15916a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__BVID__135</value>
+      <webElementGuid>f5ce091a-d43f-4abe-8bba-85c213586c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select... America/AdakAmerica/ChicagoAmerica/DenverAmerica/DetroitAmerica/Indiana/IndianapolisAmerica/Indiana/KnoxAmerica/Indiana/MarengoAmerica/Indiana/PetersburgAmerica/Indiana/Tell CityAmerica/Indiana/VevayAmerica/Indiana/VincennesAmerica/Indiana/WinamacAmerica/JuneauAmerica/Kentucky/LouisvilleAmerica/Kentucky/MonticelloAmerica/Los AngelesAmerica/MenomineeAmerica/MetlakatlaAmerica/New YorkAmerica/NomeAmerica/North Dakota/BeulahAmerica/North Dakota/CenterAmerica/North Dakota/New SalemAmerica/PhoenixEtc/UTC</value>
+      <webElementGuid>7f15d4d0-00fe-4c95-ad1a-d1681405a855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__135&quot;)</value>
+      <webElementGuid>a7cf08a8-4ba2-436a-9b1b-702db9f79103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='__BVID__135']</value>
+      <webElementGuid>3449994d-d9e2-499a-88b1-1b0fd5a6d3ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TimeZoneValue']/select</value>
+      <webElementGuid>9edf731d-7eb2-424b-86bd-840d4f672b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency*'])[1]/following::select[1]</value>
+      <webElementGuid>541d568e-19c8-40c9-876c-bc469123cf2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Zone*'])[1]/following::select[1]</value>
+      <webElementGuid>be8161ae-9980-46f6-9dc5-6fc3b4c46069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repeating'])[1]/preceding::select[2]</value>
+      <webElementGuid>a1051251-08b1-4fbe-924c-e2a0eef84c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunday'])[1]/preceding::select[2]</value>
+      <webElementGuid>1331f971-5e07-44df-a2d7-11cae8b5b036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>ab0d100c-3a59-49aa-9f56-5af6b97355ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = '__BVID__135' and (text() = ' Select... America/AdakAmerica/ChicagoAmerica/DenverAmerica/DetroitAmerica/Indiana/IndianapolisAmerica/Indiana/KnoxAmerica/Indiana/MarengoAmerica/Indiana/PetersburgAmerica/Indiana/Tell CityAmerica/Indiana/VevayAmerica/Indiana/VincennesAmerica/Indiana/WinamacAmerica/JuneauAmerica/Kentucky/LouisvilleAmerica/Kentucky/MonticelloAmerica/Los AngelesAmerica/MenomineeAmerica/MetlakatlaAmerica/New YorkAmerica/NomeAmerica/North Dakota/BeulahAmerica/North Dakota/CenterAmerica/North Dakota/New SalemAmerica/PhoenixEtc/UTC' or . = ' Select... America/AdakAmerica/ChicagoAmerica/DenverAmerica/DetroitAmerica/Indiana/IndianapolisAmerica/Indiana/KnoxAmerica/Indiana/MarengoAmerica/Indiana/PetersburgAmerica/Indiana/Tell CityAmerica/Indiana/VevayAmerica/Indiana/VincennesAmerica/Indiana/WinamacAmerica/JuneauAmerica/Kentucky/LouisvilleAmerica/Kentucky/MonticelloAmerica/Los AngelesAmerica/MenomineeAmerica/MetlakatlaAmerica/New YorkAmerica/NomeAmerica/North Dakota/BeulahAmerica/North Dakota/CenterAmerica/North Dakota/New SalemAmerica/PhoenixEtc/UTC')]</value>
+      <webElementGuid>c2f1df3d-9087-494e-858b-4f2c4a01b4c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
