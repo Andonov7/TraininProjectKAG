@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_13THMIL (9)</name>
+   <name>div_Approve a request on my Microsoft Authe_596d4b (19)</name>
    <tag></tag>
-   <elementGuidId>1d5713d4-ff07-41d8-80af-ca33b6abaccb</elementGuidId>
+   <elementGuidId>96fba325-0457-4b2d-aa53-38f9f5d401f3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::td[1]</value>
+         <value>//div[@id='idDiv_SAOTCS_Proofs']/div/div/div/div[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td</value>
+         <value>div.table-cell.text-left.content > div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>1a85d4b8-d3e9-4369-b6a6-35328d5ed9a8</webElementGuid>
+      <value>div</value>
+      <webElementGuid>85f89caf-f159-4c26-bbbf-78c1f9fc9069</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-colindex</name>
+      <name>data-bind</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>5a0a3f06-bc5a-417c-87fb-25c1936a9269</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>cell</value>
-      <webElementGuid>4db616d6-489a-4d61-9586-da2024f42319</webElementGuid>
+      <value>text: display</value>
+      <webElementGuid>1f7b87a1-331e-442a-bc86-a1cf29e2bd24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>13THMIL</value>
-      <webElementGuid>fee7dc17-0686-4a32-a234-3b1366dda0aa</webElementGuid>
+      <value>Approve a request on my Microsoft Authenticator app</value>
+      <webElementGuid>dc69a94d-e0fa-48ff-a06a-cd64eee38d8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__BVID__113&quot;)/tbody[1]/tr[1]/td[1]</value>
-      <webElementGuid>22f349c5-7af4-4532-b81d-8a762b95ce01</webElementGuid>
+      <value>id(&quot;idDiv_SAOTCS_Proofs&quot;)/div[@class=&quot;row tile&quot;]/div[@class=&quot;table&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;table-cell text-left content&quot;]/div[1]</value>
+      <webElementGuid>b5dbfce3-76f7-40f8-99df-60b59d4a4dcc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='__BVID__113']/tbody/tr/td</value>
-      <webElementGuid>ee290985-9f16-4986-82e1-d18019f1de89</webElementGuid>
+      <value>//div[@id='idDiv_SAOTCS_Proofs']/div/div/div/div[2]/div</value>
+      <webElementGuid>0d2e5dbe-0ed2-4465-b472-3f049f2f2a4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::td[1]</value>
-      <webElementGuid>cf399de7-368b-4c26-8b4e-4cdfcce858aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify your identity'])[1]/following::div[9]</value>
+      <webElementGuid>c9021a0a-4312-4755-97dd-fe52be58c526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Division'])[2]/following::td[1]</value>
-      <webElementGuid>f14e8758-4b02-4104-b514-3af62c30a3dc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='angel.andonov@thekag.com'])[1]/following::div[12]</value>
+      <webElementGuid>42a36fca-84ff-4d7c-be52-dae5f5314201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[1]/preceding::td[2]</value>
-      <webElementGuid>b968c10f-7fde-43e4-83dd-de4e99ad8953</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use a verification code'])[1]/preceding::div[3]</value>
+      <webElementGuid>2455eedf-578f-41f7-969e-3cfac640f6bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[2]/preceding::td[6]</value>
-      <webElementGuid>061bfd41-ead9-400b-a575-79895586e7bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text +X XXXXXXXX81‎'])[1]/preceding::div[10]</value>
+      <webElementGuid>6140e38e-24fc-4bde-ac5d-8a0fcd346da1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='13THMIL']/parent::*</value>
-      <webElementGuid>8a2ae914-8fd5-463c-83fc-2ca75f0f3948</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Approve a request on my Microsoft Authenticator app']/parent::*</value>
+      <webElementGuid>090d2da3-9d23-45c8-bcd4-defa12f53a24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td</value>
-      <webElementGuid>d887a098-b815-49e1-bea3-69a4b20348ed</webElementGuid>
+      <value>//div[2]/div/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>473c8500-56a0-45b4-876d-79cbb3fc60cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '13THMIL' or . = '13THMIL')]</value>
-      <webElementGuid>eef55bbb-d46c-442c-8e48-4c7ea89651e2</webElementGuid>
+      <value>//div[(text() = 'Approve a request on my Microsoft Authenticator app' or . = 'Approve a request on my Microsoft Authenticator app')]</value>
+      <webElementGuid>8a88f4e3-b624-4de7-8817-efe9efae265e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

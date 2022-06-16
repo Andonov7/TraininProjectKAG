@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Add Bill To</name>
+   <name>button_Add Email (1)</name>
    <tag></tag>
-   <elementGuidId>50cd9408-9b40-4211-9324-a68073ad94b2</elementGuidId>
+   <elementGuidId>853f9d5b-9a72-4a16-a29d-1270cf6139cd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and (text() = 'Add Bill To' or . = 'Add Bill To')]</value>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.form-control.btn-primary</value>
+         <value>button.btn.mb-1.btn-primary.btn-sm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2a6dcf16-8288-4aae-b9cd-09d368dac5e8</webElementGuid>
+      <webElementGuid>96b372e5-879a-4e29-b663-87a792562a28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,87 +30,87 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8a77af07-90d2-43ed-93dd-0a136e7928b3</webElementGuid>
+      <webElementGuid>7e5d3398-0a1b-4d3f-94c9-4126d2a0460b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn form-control btn-primary</value>
-      <webElementGuid>6272a123-746c-4804-bba1-75316a28e969</webElementGuid>
+      <value>btn mb-1 btn-primary btn-sm</value>
+      <webElementGuid>be196201-003c-4673-8ed0-a2fb185584b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Add Bill To</value>
-      <webElementGuid>ab021f4c-cc87-4f54-8473-a1fe2e5d3ce4</webElementGuid>
+      <value> Add Email </value>
+      <webElementGuid>d0f9885c-377b-4fa2-ba12-32b54003f320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentsContainer&quot;)/div[@class=&quot;card card-body&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;p-0 m-0 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-2&quot;]/button[@class=&quot;btn form-control btn-primary&quot;]</value>
-      <webElementGuid>870ca152-e1a7-4e63-a115-52a95ec1cd7a</webElementGuid>
+      <value>id(&quot;subsHeaderContainer&quot;)/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;m-0 p-0 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;p-0 pt-2 m-0 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;text-right col&quot;]/button[@class=&quot;btn mb-1 btn-primary btn-sm&quot;]</value>
+      <webElementGuid>7b594e5d-066a-4405-8a54-d5f51fa4031e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>e0e553a2-68a9-4ea6-b6a4-bc1e1e800c80</webElementGuid>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>17b710b2-53ab-4489-982a-cf910fa3c3cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ContentsContainer']/div/div/div[3]/div[4]/div/div/div/div/div[2]/div[2]/button</value>
-      <webElementGuid>706ab9cc-a4e1-443f-839d-ab763667369e</webElementGuid>
+      <value>//div[@id='subsHeaderContainer']/div[2]/div[2]/div/div/div/div[3]/div/div/div/div[2]/button</value>
+      <webElementGuid>d671fbd0-646f-4d14-8be1-37666befb3f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill Tos'])[1]/following::button[1]</value>
-      <webElementGuid>0ead09a3-b400-440a-bc42-8be8fcb4a110</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address To*'])[1]/following::button[1]</value>
+      <webElementGuid>ada708e6-15ad-44e3-b41a-41db2be0b1fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[1]/following::button[1]</value>
-      <webElementGuid>7b6481b8-6e6b-4b22-8bf3-0de2f1428041</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum Attachments Per Email*'])[1]/following::button[1]</value>
+      <webElementGuid>7327dfa5-42e4-4eb7-89b6-b1a69b5e01c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Bill Tos'])[1]/preceding::button[1]</value>
-      <webElementGuid>f4815617-01e5-40f1-9ffd-3952425e17e9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='des@thekag.com'])[1]/preceding::button[1]</value>
+      <webElementGuid>88770fa7-6a46-415a-a8c7-18c8788deb72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>4564d8d7-8d72-4c89-9948-261de6062146</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::button[1]</value>
+      <webElementGuid>a4eb40ee-5e8a-424c-ae66-3c974e766e38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Add Bill To']/parent::*</value>
-      <webElementGuid>34a7196d-6ba0-4b47-9cb9-561bec27163c</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Add Email']/parent::*</value>
+      <webElementGuid>7cbd95eb-d3aa-4785-a373-83b9267e7006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,14 +118,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>24ead817-cb50-47e8-b3d3-e94fc7cc31ab</webElementGuid>
+      <webElementGuid>7e64af32-d29c-4326-a449-ed357aafd623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Add Bill To' or . = 'Add Bill To')]</value>
-      <webElementGuid>7a897f3f-7764-446c-a1cd-358a369cd83c</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' Add Email ' or . = ' Add Email ')]</value>
+      <webElementGuid>c4c90f76-914b-4773-a74c-2def5248d568</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

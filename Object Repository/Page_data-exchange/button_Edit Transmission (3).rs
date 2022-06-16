@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_13THMIL (9)</name>
+   <name>button_Edit Transmission (3)</name>
    <tag></tag>
-   <elementGuidId>1d5713d4-ff07-41d8-80af-ca33b6abaccb</elementGuidId>
+   <elementGuidId>f4b09494-b9b3-45dd-a6ee-f79da40ad87a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::td[1]</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td</value>
+         <value>button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>1a85d4b8-d3e9-4369-b6a6-35328d5ed9a8</webElementGuid>
+      <value>button</value>
+      <webElementGuid>0883139b-83c3-4e1a-9b52-7ce8f17232a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>6bbd2051-3822-4256-ba7a-c8d7e8f78e73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-colindex</name>
+      <name>class</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>5a0a3f06-bc5a-417c-87fb-25c1936a9269</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>cell</value>
-      <webElementGuid>4db616d6-489a-4d61-9586-da2024f42319</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>e32fc5ce-79ab-4268-8ecb-2bae9e0ab958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>13THMIL</value>
-      <webElementGuid>fee7dc17-0686-4a32-a234-3b1366dda0aa</webElementGuid>
+      <value>Edit Transmission</value>
+      <webElementGuid>7978eeda-e36a-475e-9a18-2a548f0baf54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__BVID__113&quot;)/tbody[1]/tr[1]/td[1]</value>
-      <webElementGuid>22f349c5-7af4-4532-b81d-8a762b95ce01</webElementGuid>
+      <value>id(&quot;subsHeaderContainer&quot;)/div[@class=&quot;row float-right&quot;]/div[@class=&quot;mt-4 col&quot;]/span[1]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>8c0479f4-036d-434f-8f67-910e05abfd12</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>d9bebb78-ca69-49dd-936c-859d46493941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='__BVID__113']/tbody/tr/td</value>
-      <webElementGuid>ee290985-9f16-4986-82e1-d18019f1de89</webElementGuid>
+      <value>//div[@id='subsHeaderContainer']/div[3]/div/span/button</value>
+      <webElementGuid>87df2e7f-d184-4ffb-a87d-a0063482c348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::td[1]</value>
-      <webElementGuid>cf399de7-368b-4c26-8b4e-4cdfcce858aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/following::button[1]</value>
+      <webElementGuid>e3ec32f4-9efd-49b8-9839-cdf483ddc6da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Division'])[2]/following::td[1]</value>
-      <webElementGuid>f14e8758-4b02-4104-b514-3af62c30a3dc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::button[1]</value>
+      <webElementGuid>18b6cbd4-093e-4305-bff2-daf7bae0625d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[1]/preceding::td[2]</value>
-      <webElementGuid>b968c10f-7fde-43e4-83dd-de4e99ad8953</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenan Advantage Group, Inc.'])[1]/preceding::button[1]</value>
+      <webElementGuid>75046648-1d32-4a52-8991-9a8b6ea625b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[2]/preceding::td[6]</value>
-      <webElementGuid>061bfd41-ead9-400b-a575-79895586e7bf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='13THMIL']/parent::*</value>
-      <webElementGuid>8a2ae914-8fd5-463c-83fc-2ca75f0f3948</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release# 1.0.337.00'])[1]/preceding::button[1]</value>
+      <webElementGuid>6b407b38-c869-441c-895a-6203f54549e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td</value>
-      <webElementGuid>d887a098-b815-49e1-bea3-69a4b20348ed</webElementGuid>
+      <value>//span/button</value>
+      <webElementGuid>753f6611-c08d-4c52-a17c-949e1fe720d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '13THMIL' or . = '13THMIL')]</value>
-      <webElementGuid>eef55bbb-d46c-442c-8e48-4c7ea89651e2</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Edit Transmission' or . = 'Edit Transmission')]</value>
+      <webElementGuid>a981ba35-6fee-4a3e-8051-ec3b6a0f12d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

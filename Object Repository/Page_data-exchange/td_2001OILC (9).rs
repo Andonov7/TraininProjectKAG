@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='__BVID__113']/tbody/tr[2]/td</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[1]/following::td[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

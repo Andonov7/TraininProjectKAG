@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Advanced Filter___BVID__24 (13)</name>
+   <name>input_Email Address_emailInput (3)</name>
    <tag></tag>
-   <elementGuidId>7b3c49b5-5c49-483c-b5e4-8ef2621d0945</elementGuidId>
+   <elementGuidId>9089e1f8-a158-466a-91a4-456a76bcc34d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'text' and @placeholder = 'Search by Name...' and @id = '__BVID__24']</value>
+         <value>//input[@id='emailInput']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#__BVID__24</value>
+         <value>#emailInput</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,23 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ec109a75-03d7-4a90-aa62-9e5d6e8618fd</webElementGuid>
+      <webElementGuid>5703bfd1-19c1-46f8-bdc0-24c74032fe92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>emailInput</value>
+      <webElementGuid>dd1dbbb7-90ae-49f9-b269-ec4cf390bce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>04202254-d39e-4091-932b-e0743b263407</webElementGuid>
+      <value>email</value>
+      <webElementGuid>9e40cb70-e820-4468-b45d-ea54341e3ff6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>required</name>
       <type>Main</type>
-      <value>Search by Name...</value>
-      <webElementGuid>4e4b4574-9d35-4d5a-836f-04e888c210bf</webElementGuid>
+      <value>required</value>
+      <webElementGuid>56b4e94c-e6c9-44ec-8d43-b69d0cf0e935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a2f3280a-21d6-4584-a112-d09f9b40b8b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,54 +62,54 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>92918937-c2ee-478d-84c8-b09e43953227</webElementGuid>
+      <webElementGuid>611199cb-e5bf-40ef-844f-06669f0bcbd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>pattern</name>
       <type>Main</type>
-      <value>__BVID__24</value>
-      <webElementGuid>94eb88ae-dfc8-4acd-b0ab-70e2dc2942a5</webElementGuid>
+      <value>[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$</value>
+      <webElementGuid>350076df-3c2f-40da-a916-30d2e0941f9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__BVID__24&quot;)</value>
-      <webElementGuid>0ca08af9-a5be-4950-be4a-7a01486a2bd4</webElementGuid>
+      <value>id(&quot;emailInput&quot;)</value>
+      <webElementGuid>ed40a868-360c-4753-acd5-e831a7f89c85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='__BVID__24']</value>
-      <webElementGuid>87850714-142f-4639-bf99-ff96300a97fe</webElementGuid>
+      <value>//input[@id='emailInput']</value>
+      <webElementGuid>acd16ae1-c744-4147-96fb-3b5def04c4a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ContentsContainer']/div/div[3]/div/div[3]/div/input</value>
-      <webElementGuid>ccb3df65-c10a-4102-9cbc-de34c9606a60</webElementGuid>
+      <value>//div[@id='__BVID__166']/div/input</value>
+      <webElementGuid>16d9a45e-0e0a-4d49-a0ef-2b6a69b4247b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>f6c28bca-265c-44f3-b8bf-7528d9e2de21</webElementGuid>
+      <value>//form/div/div/input</value>
+      <webElementGuid>9fb3449a-07f3-411c-9864-9680032907a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Search by Name...' and @id = '__BVID__24']</value>
-      <webElementGuid>97dc88a3-2353-4b9f-a5bd-70473b5bac83</webElementGuid>
+      <value>//input[@id = 'emailInput' and @type = 'email']</value>
+      <webElementGuid>d7b17d67-f626-4b8a-acf3-91f2d7e96caa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

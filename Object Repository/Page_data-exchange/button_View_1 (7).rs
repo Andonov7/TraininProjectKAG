@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_13THMIL (9)</name>
+   <name>button_View_1 (7)</name>
    <tag></tag>
-   <elementGuidId>1d5713d4-ff07-41d8-80af-ca33b6abaccb</elementGuidId>
+   <elementGuidId>84b35f80-89c6-4204-8d81-f14b27e61747</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::td[1]</value>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td</value>
+         <value>button.btn.float-right.mr-2.btn-success</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>1a85d4b8-d3e9-4369-b6a6-35328d5ed9a8</webElementGuid>
+      <value>button</value>
+      <webElementGuid>4e24961b-f307-4a40-97cf-3c2ffd5200f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>27f72466-41e2-4f9d-afe4-8a9f1dcbb887</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-colindex</name>
+      <name>class</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>5a0a3f06-bc5a-417c-87fb-25c1936a9269</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>cell</value>
-      <webElementGuid>4db616d6-489a-4d61-9586-da2024f42319</webElementGuid>
+      <value>btn float-right mr-2 btn-success</value>
+      <webElementGuid>a183ca34-bc31-478f-9ced-c7dd9a5dca2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>13THMIL</value>
-      <webElementGuid>fee7dc17-0686-4a32-a234-3b1366dda0aa</webElementGuid>
+      <value> View </value>
+      <webElementGuid>93308292-e236-4fff-b142-638d3dd99b57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__BVID__113&quot;)/tbody[1]/tr[1]/td[1]</value>
-      <webElementGuid>22f349c5-7af4-4532-b81d-8a762b95ce01</webElementGuid>
+      <value>id(&quot;maintp&quot;)/div[@class=&quot;row border border-black no-gutters p-2&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;p-0 m-0 container&quot;]/div[@class=&quot;row pl-2 mb-n2&quot;]/div[@class=&quot;col-2&quot;]/button[@class=&quot;btn float-right mr-2 btn-success&quot;]</value>
+      <webElementGuid>8199fe5e-f149-4a40-a6d6-4f4eb00b07ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>09bac110-08e0-4050-96ad-36127a7d2a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='__BVID__113']/tbody/tr/td</value>
-      <webElementGuid>ee290985-9f16-4986-82e1-d18019f1de89</webElementGuid>
+      <value>//div[@id='maintp']/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>bc36f78e-6a77-466b-b992-178da32d5c2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::td[1]</value>
-      <webElementGuid>cf399de7-368b-4c26-8b4e-4cdfcce858aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type:'])[1]/following::button[1]</value>
+      <webElementGuid>89170059-c3ea-4c47-80a3-ada1cc3abfbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Division'])[2]/following::td[1]</value>
-      <webElementGuid>f14e8758-4b02-4104-b514-3af62c30a3dc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description:'])[1]/preceding::button[1]</value>
+      <webElementGuid>15e6ffce-a3b9-40d5-a806-71c94a69e899</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[1]/preceding::td[2]</value>
-      <webElementGuid>b968c10f-7fde-43e4-83dd-de4e99ad8953</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[2]/preceding::td[6]</value>
-      <webElementGuid>061bfd41-ead9-400b-a575-79895586e7bf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='13THMIL']/parent::*</value>
-      <webElementGuid>8a2ae914-8fd5-463c-83fc-2ca75f0f3948</webElementGuid>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>cc9c34d0-ad46-4059-8ac0-5df122bfb0b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td</value>
-      <webElementGuid>d887a098-b815-49e1-bea3-69a4b20348ed</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>dda8752e-ee7d-48c0-b3fe-c80c6719a793</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '13THMIL' or . = '13THMIL')]</value>
-      <webElementGuid>eef55bbb-d46c-442c-8e48-4c7ea89651e2</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' View ' or . = ' View ')]</value>
+      <webElementGuid>b2d08e71-c6df-4090-bb43-db3176b6bbb5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

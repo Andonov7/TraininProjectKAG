@@ -4,12 +4,12 @@
    <name>DES</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <mailRecipient>Karen.Larry-Moyer@thekag.com;</mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
-   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>true</rerunImmediately>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>95822532-b3b3-4db1-8f83-f96cca99690f</testSuiteGuid>
    <testCaseLink>
       <guid>943427ce-d872-4eff-995e-54477d8691ed</guid>

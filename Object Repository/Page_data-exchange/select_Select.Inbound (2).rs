@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='__BVID__89']</value>
+         <value>//div[@id='directionControl']/select</value>
       </entry>
       <entry>
          <key>CSS</key>

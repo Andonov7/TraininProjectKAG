@@ -19,45 +19,33 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dx-portal.qa.thekag.com/')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Approve a request on my Microsoft Authe_596d4b (18)'))
-
-WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Advanced Filter___BVID__24 (18)'), 'katalon trad')
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (19)'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (1)'))
-
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View_1 (6)'))
-
-WebUI.rightClick(findTestObject('Object Repository/Page_data-exchange/button_View (19)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_data-exchange/button_View (19)'), 0)
-
-WebUI.openBrowser('')
+WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://dx-portal.qa.thekag.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Approve a request on my Microsoft Authe_596d4b (18)'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Approve a request on my Microsoft Authe_596d4b (19)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Advanced Filter___BVID__24 (18) (1)'), 'katalon trad')
+WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Advanced Filter___BVID__24 (19)'), 'katalon trad')
 
-WebUI.delay(3)
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (20)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (19) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (2)'))
 
-WebUI.delay(3)
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View_1 (7)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (1) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (20)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View_1 (6) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Edit Transmission (3)'))
 
-WebUI.rightClick(findTestObject('Object Repository/Page_data-exchange/button_View (19) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Email (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_data-exchange/button_View (19) (1)'), 0)
+WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Email Address_emailInput (3)'), 'katalon_user@thekag.com')
+
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Email Address (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Save (18)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_data-exchange/button_Edit Transmission (3)'), 0)
+
+WebUI.closeBrowser()
 
