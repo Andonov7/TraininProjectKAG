@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Email (1)</name>
+   <tag></tag>
+   <elementGuidId>6be5d342-26fb-42bc-9e0f-16bd58625e03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.mb-1.btn-primary.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c55af0e2-4d24-4c11-85dc-6534dcb5e17f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11671eba-35ee-4689-a56a-b711ca84a77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn mb-1 btn-primary btn-sm</value>
+      <webElementGuid>4268fb26-516d-4ba8-876b-68a33c662c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Email </value>
+      <webElementGuid>f30e7560-83ae-43e8-a6be-bf8f0ad2f74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subsHeaderContainer&quot;)/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;m-0 p-0 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;p-0 pt-2 m-0 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;text-right col&quot;]/button[@class=&quot;btn mb-1 btn-primary btn-sm&quot;]</value>
+      <webElementGuid>04b82ce1-80d2-4b3e-8bee-b3416194b074</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>669b830b-255d-4a97-91f2-01f187ef92de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subsHeaderContainer']/div[2]/div[2]/div/div/div/div[3]/div/div/div/div[2]/button</value>
+      <webElementGuid>16c2cc4b-74a6-4c75-b72e-1718286efedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address To*'])[1]/following::button[1]</value>
+      <webElementGuid>1aa20e09-a93b-4b2f-94b8-860562075b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum Attachments Per Email*'])[1]/following::button[1]</value>
+      <webElementGuid>265c5c32-16c6-4e18-a2b5-517cb019425e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='des@thekag.com'])[1]/preceding::button[1]</value>
+      <webElementGuid>0946ea20-c6a6-466f-8edf-5fe8d9d97349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::button[1]</value>
+      <webElementGuid>c4c936bd-ff21-48ae-92e3-37d5e2ffd5a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Email']/parent::*</value>
+      <webElementGuid>5745f6b5-3918-4ac7-b7e1-1db28bb87a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>d58eb88e-0d69-41aa-acae-4d3fd31d655c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add Email ' or . = ' Add Email ')]</value>
+      <webElementGuid>6a7bc0db-6b54-4c6d-9687-ddbae6c1af1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

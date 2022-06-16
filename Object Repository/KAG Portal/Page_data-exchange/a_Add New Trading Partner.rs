@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add New Trading Partner</name>
+   <tag></tag>
+   <elementGuidId>dc0b78f8-66a8-4f0c-8a67-dc63bed00e78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/partner/00000000-0000-0000-0000-000000000000' and (text() = ' Add New Trading Partner ' or . = ' Add New Trading Partner ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a272e24-4f29-474b-ac65-b178908dd228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/partner/00000000-0000-0000-0000-000000000000</value>
+      <webElementGuid>6212b83c-eb8d-456d-8178-a5668ed8d045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>3d94c3a0-d938-4f19-86b1-4859d1a69baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>d567e45f-72c8-4854-a724-cb7e6941a158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add New Trading Partner </value>
+      <webElementGuid>2ac9cbde-77e8-499d-ae08-b734b30dc006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentsContainer&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;mw-100 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>d7a8c050-9da1-4c1f-9ef8-4ad77527d738</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContentsContainer']/div/div[3]/div/div/a</value>
+      <webElementGuid>ac7cae43-d6b3-4ba0-9737-3afad4332fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add New Trading Partner')]</value>
+      <webElementGuid>981ad7df-55e6-40b2-9d1d-49d55cc01188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TPS-0.0.0'])[1]/following::a[1]</value>
+      <webElementGuid>03f77143-4f14-49e7-bf11-5a123149ce50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trading Partners'])[2]/following::a[1]</value>
+      <webElementGuid>6a2b2a32-57a4-4b3e-9677-849f54cc7803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Filter'])[1]/preceding::a[1]</value>
+      <webElementGuid>ad6d2c77-d56d-4af0-93d2-a078df9386a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TPS-AS-0.0.0'])[1]/preceding::a[1]</value>
+      <webElementGuid>f0054f2c-8915-42da-aebd-666a2dd08401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add New Trading Partner']/parent::*</value>
+      <webElementGuid>19b84c70-0f90-4bd7-b538-210754cc6fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/partner/00000000-0000-0000-0000-000000000000')]</value>
+      <webElementGuid>91c05dec-1114-454d-b854-d26525edfe04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>aa01b0d1-e6c5-4816-b400-ae4c5a060a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/partner/00000000-0000-0000-0000-000000000000' and (text() = ' Add New Trading Partner ' or . = ' Add New Trading Partner ')]</value>
+      <webElementGuid>ccab51d0-56f9-46b9-a664-2e4b1d396609</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

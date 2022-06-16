@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fuels Delivery</name>
+   <tag></tag>
+   <elementGuidId>7f3dcfb8-e892-4301-bd14-63114f5ca304</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#text-5 > div.textwidget > p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d41a98ae-1fc7-437f-b47a-67764af4d0a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/fuels-delivery/</value>
+      <webElementGuid>0d581d89-63f9-43ff-9334-6bb4e476f84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fuels Delivery</value>
+      <webElementGuid>75a01948-47ff-47a8-aa92-7d9e0a5cbc5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-5&quot;)/div[@class=&quot;textwidget&quot;]/p[1]/a[1]</value>
+      <webElementGuid>44abd10f-a328-4fa5-9f26-c220d97f3691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='text-5']/div/p/a</value>
+      <webElementGuid>b6843b08-b41d-4b13-940f-605a58d4da57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fuels Delivery')]</value>
+      <webElementGuid>75baf782-a38c-46d5-9122-c7345ef12953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POPULAR LINKS'])[1]/following::a[1]</value>
+      <webElementGuid>12014faa-5e4a-4d14-ba8b-7f232198ede4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KAG Company Store'])[1]/following::a[1]</value>
+      <webElementGuid>aebe5b82-45ec-4393-a8de-0638944fc15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialty Products'])[2]/preceding::a[1]</value>
+      <webElementGuid>5f5bc926-d6c4-4946-91d1-8f5919339c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Food Grade'])[1]/preceding::a[2]</value>
+      <webElementGuid>52dd140d-1c76-41bd-8785-d4bd1ded8242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fuels Delivery']/parent::*</value>
+      <webElementGuid>705a7f70-524a-4252-982f-f7f0361b163f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/fuels-delivery/')])[4]</value>
+      <webElementGuid>eefa68c1-1535-4251-9872-5630da6eabfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/p/a</value>
+      <webElementGuid>1961e205-7aef-4af9-8142-51f73068fa2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

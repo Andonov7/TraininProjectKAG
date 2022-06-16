@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>e11434d7-5177-4e29-bd50-a6124d323cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hdtb-msb']/div/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.hdtb-mitem.hdtb-msel > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>daf79375-fc21-4dec-9a81-841a751c1e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Видеа</value>
+      <webElementGuid>e3ec8d60-3b29-4a49-b681-c18a36642a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hdtb-msb&quot;)/div[1]/div[@class=&quot;MUFPAc&quot;]/div[@class=&quot;hdtb-mitem hdtb-msel&quot;]/span[1]</value>
+      <webElementGuid>b5dbc154-a8c6-4e6b-9fb2-52243e2a28b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hdtb-msb']/div/div/div[4]/span</value>
+      <webElementGuid>f715d6c3-1f11-4c9f-8744-fba65525acc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Карти'])[1]/following::span[1]</value>
+      <webElementGuid>38316e4f-3bc3-4c13-baa4-f6c566822682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Слики'])[1]/following::span[2]</value>
+      <webElementGuid>3fdc3ae8-0a27-408d-8d35-be1f70eae4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Повеќе'])[1]/preceding::span[2]</value>
+      <webElementGuid>592e017a-6494-4b44-b80f-efc32f2b5c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Книги'])[1]/preceding::span[3]</value>
+      <webElementGuid>03f11be7-cbe8-4fdb-93d9-b524c3ee5e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Видеа']/parent::*</value>
+      <webElementGuid>032ae409-cd74-4ee3-9d1f-4c7fb0779884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>24263b3e-810a-4f9b-9728-4e3e7ce66a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Видеа' or . = 'Видеа')]</value>
+      <webElementGuid>608b745e-2ef7-4361-8aa8-9759b4fd7c91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

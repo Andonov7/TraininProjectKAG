@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TPV-0.0.0Katalon Trading Partner Active_d58be5</name>
+   <tag></tag>
+   <elementGuidId>c7c07437-d596-48e0-9003-e9a88c5326b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContentsContainer']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c436f8db-c990-4912-90c5-894ad47c4ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>48901d2c-d50a-4a73-b6a3-47566118a843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TPV-0.0.0Katalon Trading Partner Active  Cancel  Save  Edit Audit HistoryComing soon...Bill Tos Add Bill To 51025per PageCodeNameDivisionTransaction(s)Action13THMIL13TH STREET SHELL, LLCFDGINV,LT Remove 2001OILC2001 OIL COMPANYFDGINV Remove 21STCENT21ST CENTURY ENERGY LLCFDGINV Remove «‹1›»Total: 3No Bill Tos</value>
+      <webElementGuid>dc94e89e-7bdc-4bee-9ff2-4f67a68d9aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentsContainer&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>482764fb-0ff7-43d3-b64f-37584e298714</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContentsContainer']/div/div</value>
+      <webElementGuid>dc424260-22c0-42e6-a0ec-6b91ca65c4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[5]</value>
+      <webElementGuid>f11f9297-a1e3-42cf-a380-39d5c51de30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trading Partners'])[2]/following::div[5]</value>
+      <webElementGuid>5a2f566b-1aa0-437b-a016-cd3d57f729fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>98c8849c-34ec-466e-9ff8-d28c13530c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TPV-0.0.0Katalon Trading Partner Active  Cancel  Save  Edit Audit HistoryComing soon...Bill Tos Add Bill To 51025per PageCodeNameDivisionTransaction(s)Action13THMIL13TH STREET SHELL, LLCFDGINV,LT Remove 2001OILC2001 OIL COMPANYFDGINV Remove 21STCENT21ST CENTURY ENERGY LLCFDGINV Remove «‹1›»Total: 3No Bill Tos' or . = 'TPV-0.0.0Katalon Trading Partner Active  Cancel  Save  Edit Audit HistoryComing soon...Bill Tos Add Bill To 51025per PageCodeNameDivisionTransaction(s)Action13THMIL13TH STREET SHELL, LLCFDGINV,LT Remove 2001OILC2001 OIL COMPANYFDGINV Remove 21STCENT21ST CENTURY ENERGY LLCFDGINV Remove «‹1›»Total: 3No Bill Tos')]</value>
+      <webElementGuid>af27d18c-0e34-47b3-8aee-0855233157f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

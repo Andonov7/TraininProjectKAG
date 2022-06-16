@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Academy</name>
+   <tag></tag>
+   <elementGuidId>7b59cabd-e962-46e5-8b4a-c2a2205febc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_navigation-primary']/nav/ul/li[3]/ul/li[2]/ul/li/a/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.no-submenu.menu-item.Academy > a.menu-link > div.item_company > div.include_icon_title > div.description_item_company > div.title_item_company</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f8b72e9-2a2a-4f01-bf35-80fe070e14c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title_item_company</value>
+      <webElementGuid>16367e15-6b76-42a3-9d77-cfa88c6ecff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Academy</value>
+      <webElementGuid>294067d0-766a-4e3e-8f1f-493e11462f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_navigation-primary&quot;)/nav[@class=&quot;navigation-primary&quot;]/ul[@class=&quot;submenu level-1&quot;]/li[@class=&quot;has-submenu menu-item Resources&quot;]/ul[@class=&quot;submenu level-2&quot;]/li[@class=&quot;has-submenu menu-item Education&quot;]/ul[@class=&quot;submenu level-3&quot;]/li[@class=&quot;no-submenu menu-item Academy&quot;]/a[@class=&quot;menu-link&quot;]/div[@class=&quot;item_company&quot;]/div[@class=&quot;include_icon_title&quot;]/div[@class=&quot;description_item_company&quot;]/div[@class=&quot;title_item_company&quot;]</value>
+      <webElementGuid>e85e4931-a4fd-47df-9483-1d563d80ecd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_navigation-primary']/nav/ul/li[3]/ul/li[2]/ul/li/a/div/div/div[2]/div</value>
+      <webElementGuid>f5e1f3be-21e0-496a-b445-95e831665746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::div[5]</value>
+      <webElementGuid>9c30c4ee-8a42-4a37-845f-43bf0424e284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit a ticket'])[1]/following::div[5]</value>
+      <webElementGuid>3efe0e8c-b0ef-425c-a56a-038a7fcb5dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::div[2]</value>
+      <webElementGuid>622f9b01-abb3-45e5-a4d0-61314438b328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webinars'])[1]/preceding::div[7]</value>
+      <webElementGuid>10057b22-bb91-4556-b8f6-d41d193b7e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Academy']/parent::*</value>
+      <webElementGuid>e5969e4c-364b-4197-9966-e309adfd0de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a/div/div/div[2]/div</value>
+      <webElementGuid>425110fb-2b00-4567-a2d8-90982e8b6e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Academy' or . = 'Academy')]</value>
+      <webElementGuid>ea0a2643-241d-4e92-8155-c54d6a43b809</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
