@@ -31,7 +31,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (16)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (15)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/a_Subscription (15)'))
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View_1 (4)'))
 
@@ -42,7 +42,9 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_data-exchange/s
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Save (16)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Schedule'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Schedule'))
+
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Frequency_date'), '01/01/2022')
 
@@ -58,13 +60,11 @@ WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Frequen
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select. Second(s)Minute(s)Hour(s)Day(s)'), 
     'minutes', true)
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add (12)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add (12)'))
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Edit_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/input_Frequency_time_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_AM'))
+WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Frequency___BVID__136'), '2')
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Save_1'))
 
@@ -72,7 +72,7 @@ WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Remove (
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Yes (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/div_No Schedules'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_data-exchange/div_No Schedules'), 0)
 
 WebUI.closeBrowser()
 

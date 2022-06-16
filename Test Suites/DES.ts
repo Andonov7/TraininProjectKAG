@@ -9,104 +9,104 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>2935e450-c0a2-46d5-9e84-1434b1602f1e</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>95822532-b3b3-4db1-8f83-f96cca99690f</testSuiteGuid>
    <testCaseLink>
-      <guid>c743c24c-b8da-4ee3-8624-ffac2ddfef8c</guid>
+      <guid>943427ce-d872-4eff-995e-54477d8691ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Main Page/Add Duplicate Trading Partner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f078725c-ebb3-4b83-8cdc-22de978e6301</guid>
+      <guid>2b337b1e-de51-4a19-9c89-0c36d5a80e9b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Main Page/Edit Existing Trading Partner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fea33d17-b6fb-4cc6-8dce-52cdaf9a0468</guid>
+      <guid>9a06ed8c-7c3f-4899-a789-78eb69aac2c8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add Subscription</testCaseId>
+      <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add Edit and Remove Schedule</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>aede0862-700a-4c84-9e29-f1b35d91b582</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/DES/Trading Partners/Subscription/Edit Existing Subscription</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3218fd8e-97a1-49f1-a84e-ad30c2807496</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/DES/Trading Partners/Transmission/Add Transmission</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>860b3407-7884-48f2-b125-a1ae587f222e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/DES/Trading Partners/Transmission/Edit Existing Transmission</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2562e0ca-2fb3-4984-bd33-6fce6e6f7709</guid>
+      <guid>1c58aa87-ef39-4c03-944f-3239c82a1140</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add FA Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fcd1d398-e11b-46cb-9d39-fd1df5a7576a</guid>
+      <guid>bc7339dc-b646-443e-9117-26a0fc1007e7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add FIN-ACC Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>bb851601-c31f-4578-b398-6116d3ed3860</guid>
+      <guid>dd87d2e9-6cdf-4066-a9fa-c863cea6aae4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add FIN-INV Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>71bdbb41-eaf8-4b71-b286-5504d01623a4</guid>
+      <guid>59981a7d-6bb7-4146-8b1e-06439835ebe4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add INV Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>313768e9-cf18-497f-95c5-7988cb49f71a</guid>
+      <guid>587c58f5-8702-414f-834d-858b7611320c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add Inventory Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fea94727-eb17-42a5-8f73-8c93e8d9c04d</guid>
+      <guid>c98d0f4b-0fd0-4c0d-bd5c-7a196d69c169</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add LT Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>203b57da-3aae-416b-8b58-c9817d6ac0c0</guid>
+      <guid>a38e886a-7182-4c57-b312-4a50ad624764</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add LTR Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6dd0bca6-d9d7-4e50-8670-cd3d8e6d60af</guid>
+      <guid>edf9ac54-dc26-4357-9156-1d53958a67d0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add Edit and Remove Schedule</testCaseId>
+      <testCaseId>Test Cases/DES/Trading Partners/Subscription/Add Subscription</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>52ddd3fd-3be0-40f6-9f97-4b0ba94e77d3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DES/Trading Partners/Subscription/Edit Existing Subscription</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d695587e-6a38-4ec7-a503-d30b9d680647</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DES/Trading Partners/Transmission/Add Transmission</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>02f35514-b43b-4f53-8ffe-1bfb736f6e24</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DES/Trading Partners/Transmission/Edit Existing Transmission</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

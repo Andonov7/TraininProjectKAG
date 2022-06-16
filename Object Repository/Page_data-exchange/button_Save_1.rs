@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>(//button[@type='button'])[19]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = ' Save ' or . = ' Save ')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aa326738-ee5c-43b8-81d4-bbee2505a9fa</webElementGuid>
+      <webElementGuid>79963504-e7a2-4700-8120-197e3d8b8b3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ab01e201-8a18-4e4b-96ab-80e78db4db8a</webElementGuid>
+      <webElementGuid>f1ed2b7e-22b4-46c4-a2f4-7e44d90b123f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>20f97c49-bf63-4898-acfd-0a0539165145</webElementGuid>
+      <webElementGuid>409596d2-4f77-4d3e-bf1a-fb22533462bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Save </value>
-      <webElementGuid>b06115ae-8c1f-44eb-afab-5a6df1eb63d3</webElementGuid>
+      <webElementGuid>10619da8-d7bd-4f73-b9ef-84c16a306f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__BVID__166___BV_modal_footer_&quot;)/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>d039ec6e-6203-4eb0-8353-8c2364335e56</webElementGuid>
+      <webElementGuid>7561db6c-71fe-4aea-8db6-491754af5b01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[19]</value>
-      <webElementGuid>bdbe9261-a9a6-4a25-962f-4fedac4b7af1</webElementGuid>
+      <webElementGuid>2341f969-653d-4728-9949-ec0667489af1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//footer[@id='__BVID__166___BV_modal_footer_']/button[2]</value>
-      <webElementGuid>f1a0ff02-1121-4d1e-b99f-ce807cd1f6c1</webElementGuid>
+      <webElementGuid>86cd11f7-3b57-428d-b217-020a8d6b520e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[1]</value>
-      <webElementGuid>220f3332-a67e-40d6-804a-53dad738d0f6</webElementGuid>
+      <webElementGuid>749bb06c-1f84-43ad-a05b-d9afc8547404</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday'])[1]/following::button[2]</value>
-      <webElementGuid>545cb87a-7e5a-42ff-9e85-9cb1d3ca32f3</webElementGuid>
+      <webElementGuid>f5b835ec-1c33-415a-9f25-6afd4664e988</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/button[2]</value>
-      <webElementGuid>a78f6981-fa17-4484-b7ab-5fa542b3c435</webElementGuid>
+      <webElementGuid>80c1ad4d-9b7e-44f4-8e27-f2e70ad51f62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Save ' or . = ' Save ')]</value>
-      <webElementGuid>b498d3bc-5840-423a-96d4-aab59b95c533</webElementGuid>
+      <webElementGuid>1bf27e61-f996-4e0f-a377-4f5a8adc7d5c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

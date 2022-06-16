@@ -31,7 +31,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (4)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (3)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/a_Subscription (3)'))
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View_1 (1)'))
 

@@ -14,7 +14,7 @@
          <value>button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8d3639bf-a949-4e08-aa1c-04591c8854bc</webElementGuid>
+      <webElementGuid>10c9e9ac-3f7e-48ba-84de-3b4ca05cc7b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fc1f8479-10dd-4ca4-b9c6-fc9cba54c388</webElementGuid>
+      <webElementGuid>e707aaef-b769-4e5f-b024-c7a047b0806c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>70cf9f46-f465-41e4-b8af-6ef09b98230c</webElementGuid>
+      <webElementGuid>547cb4c3-66fb-423f-afdb-f8c8d5b7baf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Add Subscription </value>
-      <webElementGuid>d4d13366-41cc-47b2-af32-c9e396e1b148</webElementGuid>
+      <webElementGuid>a3249091-11d3-4c1f-84e3-8a0fe69cd803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;maintp&quot;)/div[@class=&quot;row border border-black no-gutters&quot;]/span[@class=&quot;float-right&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>c9008836-9e33-4b64-9b5d-466c676ccd83</webElementGuid>
+      <webElementGuid>eb4d4575-885f-4ae7-a72b-d12737132b9b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>97f3e884-f4cc-4bc5-917c-a1b4bdc5714a</webElementGuid>
+      <webElementGuid>eca2fb9c-c958-427f-807a-acd43f60e531</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='maintp']/div/span/button</value>
-      <webElementGuid>532db236-304e-49a4-9deb-085ce87bb2a8</webElementGuid>
+      <webElementGuid>56eb76c7-bb5b-4281-8bc4-52499b1df0c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FDG'])[1]/following::button[1]</value>
-      <webElementGuid>29cd8b6e-2fd2-4429-9223-fad22487067f</webElementGuid>
+      <webElementGuid>53828469-cd4b-4e72-a6f1-7a64471cd0aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Division(s):'])[1]/following::button[1]</value>
-      <webElementGuid>d4cd6fec-a1a6-4de0-a29f-6a4b11d447bf</webElementGuid>
+      <webElementGuid>677bc8b8-25d0-427a-99af-a864f18d4735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type:'])[1]/preceding::button[1]</value>
-      <webElementGuid>bb7065dd-7874-4f8f-9ee9-1c7cd72eb439</webElementGuid>
+      <webElementGuid>bf67e86f-0fca-43bf-8237-093fc3c819c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Subscription']/parent::*</value>
-      <webElementGuid>92e3c539-2788-4543-8de9-bd9aa9659ed6</webElementGuid>
+      <webElementGuid>b456c323-930b-4b84-bf9b-db13b2bfddb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span/button</value>
-      <webElementGuid>4f494c2f-4a08-4725-83b5-54fb1e2364ac</webElementGuid>
+      <webElementGuid>0731d2c5-9fa7-45fd-a8ed-7e8fd70f269a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Add Subscription ' or . = ' Add Subscription ')]</value>
-      <webElementGuid>8c034416-49e7-4e01-b249-da7176028a11</webElementGuid>
+      <webElementGuid>91c72ba5-579e-4fde-9335-d8bab3e3dda7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

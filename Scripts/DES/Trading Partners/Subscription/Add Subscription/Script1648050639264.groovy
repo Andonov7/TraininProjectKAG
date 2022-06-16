@@ -31,9 +31,9 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (3)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (2)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/a_Subscription (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Subscription (1)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Subscription (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Page_data-exchange/select_Select a Transaction TypeFinancial D_fcbdd8'), 'Invoice (INV)', 
     false)
@@ -44,7 +44,7 @@ WebUI.selectOptionByValue(findTestObject('Page_data-exchange/select_Select.Real 
 
 WebUI.setText(findTestObject('Page_data-exchange/input_Description___BVID__93'), 'Katalon testing')
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Bill To (2)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Bill To (2)'))
 
 WebUI.doubleClick(findTestObject('Page_data-exchange/td_13THMIL'))
 

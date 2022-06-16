@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Subscription</name>
    <tag></tag>
-   <elementGuidId>76047a70-9d62-4169-9b9b-b8268bffed0c</elementGuidId>
+   <elementGuidId>15e6543e-d6e5-4836-acda-9665e1c12e8f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ContentsContainer']/div/nav/ul/li[2]/a</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContentsContainer']/div/nav/ul/li[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>5f377af2-ded7-4b02-8d8e-a8fb47c29053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
+      <webElementGuid>0d43c2bd-251c-43c2-ad23-d22252995fad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
+      <webElementGuid>6c3c225f-047b-4f51-ab90-5188e70e00c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
+      <webElementGuid>79b9e294-0324-48f1-b4d5-bd27c69ac949</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Subscription</value>
+      <webElementGuid>7ccd8512-e821-4e5f-8d9f-dcd64e8994cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ContentsContainer&quot;)/div[@class=&quot;card&quot;]/nav[@class=&quot;card-header&quot;]/ul[@class=&quot;nav nav-tabs card-header-tabs&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>049f67e8-7fe2-4581-8682-56db6883cb96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ContentsContainer']/div/nav/ul/li[2]/a</value>
+      <webElementGuid>f719d44f-0cf4-4ccb-b676-83c6bae46ba4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Subscription')]</value>
+      <webElementGuid>affa881f-f4d0-4449-8599-422a29d14e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::a[2]</value>
+      <webElementGuid>84964db5-495f-417c-af48-b5fca4894d55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trading Partners'])[2]/following::a[2]</value>
+      <webElementGuid>cb56f173-982b-4ff1-becc-4226dd2ff837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TPV-0.0.0'])[1]/preceding::a[1]</value>
+      <webElementGuid>36f71ddc-e733-4c27-90cf-eb00544ff68d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Trading Partner'])[1]/preceding::a[1]</value>
+      <webElementGuid>18e99ad2-14c3-4d91-9870-434743c6b58b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Subscription']/parent::*</value>
+      <webElementGuid>4b719ccd-316b-4ecf-9e41-64fe97e61d17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>31b19426-48e7-490a-aa6b-a0a676a48f08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/ul/li[2]/a</value>
+      <webElementGuid>60ebb25a-7e85-4fa5-a876-a44b74d0179e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,5 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Subscription' or . = 'Subscription')]</value>
+      <webElementGuid>92c7f2a0-a95a-4c7b-8fe4-366b74983414</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

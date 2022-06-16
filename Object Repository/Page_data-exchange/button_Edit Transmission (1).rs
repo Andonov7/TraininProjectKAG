@@ -6,15 +6,15 @@
    <elementGuidId>5fd0673a-f3fb-4907-bdc5-5d6070b18b5d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-primary</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>fbec34a6-02aa-4d3d-b045-1359f8e9a357</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
+      <webElementGuid>154ac0da-3130-471e-8200-1c6a6022d564</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
+      <webElementGuid>afa2c0a6-6eac-4d43-84ad-19d60e702e63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit Transmission</value>
+      <webElementGuid>0283c6bd-a6b4-4360-acd5-41f2d70f0ada</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;subsHeaderContainer&quot;)/div[@class=&quot;row float-right&quot;]/div[@class=&quot;mt-4 col&quot;]/span[1]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>83bcd5dd-c8d1-4c1a-a979-625072a4f23a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
+      <webElementGuid>e44348a0-599e-485b-887a-c55d3a1b1d74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='subsHeaderContainer']/div[3]/div/span/button</value>
+      <webElementGuid>52f46a64-7a36-4a3c-b516-5f4e950ce4d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/following::button[1]</value>
+      <webElementGuid>5b6007c8-1fba-4f44-ac02-7d94b4ea3788</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::button[1]</value>
+      <webElementGuid>493f9205-345d-47dc-ad46-4d4a688f2717</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenan Advantage Group, Inc.'])[1]/preceding::button[1]</value>
+      <webElementGuid>b8198f1b-a490-417b-9022-c942f646c1e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Release# 1.0.310.00'])[1]/preceding::button[1]</value>
+      <webElementGuid>25a386f8-8d4a-4d59-845b-8fb09424719c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/button</value>
+      <webElementGuid>da4aa56c-65f6-4b44-ab70-9e41b6516d20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,5 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Edit Transmission' or . = 'Edit Transmission')]</value>
+      <webElementGuid>ec093f58-a740-448a-b083-9b6a5b9b30af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

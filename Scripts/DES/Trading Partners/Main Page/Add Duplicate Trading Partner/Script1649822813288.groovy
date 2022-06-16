@@ -25,12 +25,12 @@ WebUI.navigateToUrl('https://dx-portal.qa.thekag.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Approve a request on my Microsoft Authe_596d4b'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Add New Trading Partner'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/a_Add New Trading Partner'))
 
 WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Please correct the following error(s)_933826'), 
     'Katalon Trading Partner')
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Bill To'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Bill To'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_data-exchange/td_13THMIL'))
 

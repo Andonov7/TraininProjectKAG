@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>189e90e8-4d18-4a7d-990b-34681eda138e</webElementGuid>
+      <webElementGuid>acfe7366-8fb2-4512-be47-c0efd8c84b3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5cf6f022-242d-402f-adef-b28a9a38d5ab</webElementGuid>
+      <webElementGuid>fd4b0e67-5db8-4559-829f-17273ca026b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>07ca7dc6-cc70-4460-a07f-9e68d4ebe5fb</webElementGuid>
+      <webElementGuid>c2887dd7-a2c0-4162-9f71-ff9c7e47ecab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>prepend</name>
       <type>Main</type>
       <value>clock</value>
-      <webElementGuid>3e530749-301f-4f5a-b61c-bf367f830fb9</webElementGuid>
+      <webElementGuid>6706c223-fd46-410e-9514-0b4f13d42edf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>datePicker</value>
-      <webElementGuid>921892a5-b716-43bd-b362-7cdb03a38d7b</webElementGuid>
+      <webElementGuid>34a95f73-58eb-481a-ab16-12c05ac094ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>d01c613e-f121-42ef-a84d-a56377fb7ae7</webElementGuid>
+      <webElementGuid>957abac6-6deb-4b32-9ddf-246dd0832f07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Select Date</value>
-      <webElementGuid>b9dc691c-08d3-4f7f-b1a2-f0ba545a8723</webElementGuid>
+      <webElementGuid>f903d7c0-92f9-4f82-8ac0-6908688bf5ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;datePicker&quot;)</value>
-      <webElementGuid>5b90250c-5d6f-4381-b84c-6018932d89ff</webElementGuid>
+      <webElementGuid>fb2d6222-b0ef-4d2b-b35a-349e16714cb3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='datePicker']</value>
-      <webElementGuid>40b2144b-e09b-4468-a4ed-da4455ab904f</webElementGuid>
+      <webElementGuid>835cddb1-abd6-4035-b7b3-28f7e6657f54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='StartDateValue']/div/input</value>
-      <webElementGuid>8440d475-de09-4c66-87e1-0abc7f7c6467</webElementGuid>
+      <webElementGuid>31b10052-fbf2-485b-9a50-cb1c30dcec6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>3f2ee7df-f8c4-4e1f-b300-ec450e04b10b</webElementGuid>
+      <webElementGuid>c1391405-b46a-4689-a044-11a6d8d2c35c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'datePicker' and @name = 'date' and @placeholder = 'Select Date']</value>
-      <webElementGuid>fe9df51f-f071-48e9-aa82-d2485eadf961</webElementGuid>
+      <webElementGuid>47e85eda-9ee1-41db-88a6-851feefe1325</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

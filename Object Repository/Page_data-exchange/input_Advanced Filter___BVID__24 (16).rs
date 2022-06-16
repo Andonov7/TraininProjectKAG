@@ -4,17 +4,26 @@
    <name>input_Advanced Filter___BVID__24 (16)</name>
    <tag></tag>
    <elementGuidId>670577a1-8a30-4e5e-b21f-4295a451c833</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Search by Name...' and @id = '__BVID__24']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>#__BVID__24</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input</value>
+         <value>//div[@id='ContentsContainer']/div/div[3]/div/div[3]/div/input</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b56c1921-775c-4de2-9108-6fce5ee23446</webElementGuid>
+      <webElementGuid>d532a64a-1820-445a-a25e-3ae8d2949135</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>642ba994-cd65-4b95-9d14-6aa736ea03c0</webElementGuid>
+      <webElementGuid>7df75e77-cb4e-46f3-9059-555a7e7ee5ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search by Name...</value>
-      <webElementGuid>ee9a7122-b54c-43ca-9e5f-4027570f562f</webElementGuid>
+      <webElementGuid>d5974c77-bb6b-42f2-b6d3-d5341b745117</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>5c321570-3dba-4125-ae9a-2b4d35d196eb</webElementGuid>
+      <webElementGuid>a5a6a362-845d-4a77-a729-7f1cbe4aeff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__BVID__24</value>
-      <webElementGuid>f75422fc-6f97-4d34-81cd-81c6631de971</webElementGuid>
+      <webElementGuid>2e5d4900-537a-4465-8896-6c8c532d9d2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__BVID__24&quot;)</value>
-      <webElementGuid>8cd86963-c2c1-41e3-9723-7b40c82fea4a</webElementGuid>
+      <webElementGuid>24bd95b4-36b5-413d-90a2-edae6cd80f79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='__BVID__24']</value>
-      <webElementGuid>7e93257e-3b68-47c7-8314-e04cbdcf2bd7</webElementGuid>
+      <webElementGuid>07b68b6a-95b0-4614-a7ea-e56ad3067c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ContentsContainer']/div/div[3]/div/div[3]/div/input</value>
-      <webElementGuid>59872729-bf5a-4f06-a29b-9075e4e1baea</webElementGuid>
+      <webElementGuid>be7930f9-d86c-446b-a2e2-ae75e3035786</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>c0289542-f7d8-4a2a-aa74-5d6b01567c2f</webElementGuid>
+      <webElementGuid>0a04b3a8-de5a-411a-90ba-933f7f954748</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search by Name...' and @id = '__BVID__24']</value>
-      <webElementGuid>425e69ba-367c-483f-a949-25643532ae10</webElementGuid>
+      <webElementGuid>1346368d-59e4-4fe5-97cd-7d2c9c868e22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

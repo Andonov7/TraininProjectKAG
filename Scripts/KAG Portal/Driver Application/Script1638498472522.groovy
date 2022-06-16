@@ -23,7 +23,7 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.thekag.com/')
 
-WebUI.click(findTestObject('Page Kenan Advantage Group - Tank Truck Tra_92d3f8/a_Apply Now'))
+WebUI.click(findTestObject('KAG Portal/Page Kenan Advantage Group - Tank Truck Tra_92d3f8/a_Apply Now'))
 
 WebUI.click(findTestObject('Object Repository/Page_Join Our Family - Kenan Advantage Group/h2_DRIVERS'))
 

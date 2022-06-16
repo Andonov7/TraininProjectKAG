@@ -15,21 +15,21 @@
       <guid>53a548a5-c9e3-48bf-96d8-75a678978be3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Day1/ManualMode</testCaseId>
+      <testCaseId>Test Cases/KMS Training/Day1/ManualMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>510a84ac-7ef6-4e71-b309-c675336a80cc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Day1/RecordingMode</testCaseId>
+      <testCaseId>Test Cases/KMS Training/Day1/RecordingMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>4433a32a-e2b2-42a5-8853-05281797ca08</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Day1/ScriptingMode</testCaseId>
+      <testCaseId>Test Cases/KMS Training/Day1/ScriptingMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

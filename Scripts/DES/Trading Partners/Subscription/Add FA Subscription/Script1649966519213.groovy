@@ -31,7 +31,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (10)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (9)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/a_Subscription (9)'))
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Subscription (5)'))
 
@@ -45,7 +45,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/s
 
 WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Description___BVID__91 (3)'), 'Subscription types')
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Bill To (6)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Bill To (6)'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_data-exchange/td_13THMIL (6)'))
 
@@ -53,7 +53,7 @@ WebUI.doubleClick(findTestObject('Object Repository/Page_data-exchange/td_2001OI
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_data-exchange/td_21STCENT (6)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add (6)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add (6)'))
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Save (10)'))
 

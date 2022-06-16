@@ -25,13 +25,15 @@ WebUI.navigateToUrl('https://dx-portal.qa.thekag.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Approve a request on my Microsoft Authe_596d4b (5)'))
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Advanced Filter___BVID__24 (5)'), 'katalon trading')
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View (5)'))
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/a_Subscription (4)'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/a_Subscription (4)'))
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_View_1 (2)'))
 
@@ -47,13 +49,15 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/s
 
 WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Description___BVID__136'), 'Katalon transmission')
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Email'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Email'))
 
 WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Email Address_emailInput'), 'des@thekag.com')
 
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Email Address'))
+WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Email Address'))
 
 WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Save (5)'))
 
 WebUI.verifyTextPresent('Edit Transmission', false)
+
+WebUI.closeBrowser()
 

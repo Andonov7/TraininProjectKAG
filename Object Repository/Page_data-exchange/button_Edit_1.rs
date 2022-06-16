@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <value>//span[@id='editScheduleWrapper']/button[normalize-space(.)='Edit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b412e16d-6974-45f7-9470-485ef097e7f6</webElementGuid>
+      <webElementGuid>bdc0216d-4311-4280-8141-edcf04edc844</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9b354930-83c7-4ee7-b9b8-74dc406e87bb</webElementGuid>
+      <webElementGuid>a66bc3bb-2661-4f20-bd98-870a3c100097</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn mr-1 btn-primary btn-sm</value>
-      <webElementGuid>a615e1cb-663d-486d-a001-71eec25f6ca4</webElementGuid>
+      <webElementGuid>afb2be3f-be12-435b-ac52-73288bbfddc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Edit </value>
-      <webElementGuid>da8e84ca-fdff-4d92-8cf7-969971963fd1</webElementGuid>
+      <webElementGuid>43b684c4-2d4a-4668-8f3b-f7dbfd77823f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,70 +54,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;editScheduleWrapper&quot;)/button[@class=&quot;btn mr-1 btn-primary btn-sm&quot;]</value>
-      <webElementGuid>4f3cf9a8-e21a-4c23-8ce8-7ebd5c08a285</webElementGuid>
+      <webElementGuid>aede884f-b597-4cfa-9ae1-f25c2b699e9f</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>6da8b5f0-33f2-4231-bcfb-6911b6213ded</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//span[@id='editScheduleWrapper']/button</value>
-      <webElementGuid>ccd39071-5ee4-4f6e-a34b-dc76c0c3cc73</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/following::button[1]</value>
-      <webElementGuid>8f40da57-a3af-4612-9860-da6e4ce413bc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::button[1]</value>
-      <webElementGuid>90219faa-2c52-4753-848d-1304f9c42144</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::button[1]</value>
-      <webElementGuid>329dad1a-9845-48da-bbda-afafa59c2272</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total: 1'])[1]/preceding::button[2]</value>
-      <webElementGuid>0d08335d-f3e7-430e-9664-59fbcc1b8984</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[7]/div/span/button</value>
-      <webElementGuid>07c7c9aa-06a3-4a98-b52d-3b0257f4166a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Edit ' or . = ' Edit ')]</value>
-      <webElementGuid>086e669e-6e6c-42c2-b7fe-abb804b8cab8</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>
