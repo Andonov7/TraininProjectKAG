@@ -4,7 +4,7 @@
    <name>DES</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient>Karen.Larry-Moyer@thekag.com;</mailRecipient>
+   <mailRecipient></mailRecipient>
    <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
