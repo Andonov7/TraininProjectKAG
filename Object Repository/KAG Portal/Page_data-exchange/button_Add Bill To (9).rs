@@ -10,11 +10,15 @@
          <value>(//button[@type='button'])[2]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Add Bill To' or . = 'Add Bill To')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>button.btn.float-right.mt-n5.btn-primary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dc4a1646-4c43-4a03-a790-1d5e0200fb4c</webElementGuid>
+      <webElementGuid>a1ef97ea-7e40-48f4-a0e2-f766beb1b9fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1d0acaf1-a4a9-471d-afa3-6030d53dfa8d</webElementGuid>
+      <webElementGuid>8e901201-9da1-471a-9436-ef87cc398fe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn float-right mt-n5 btn-primary</value>
-      <webElementGuid>23ebb1a9-a2c4-4570-a9f2-490b50af5058</webElementGuid>
+      <webElementGuid>b01e5baa-f4fe-46c8-a6c7-63cfa5e22c85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Bill To</value>
-      <webElementGuid>863425c2-a810-4714-82e9-d3fffe9ce6e5</webElementGuid>
+      <webElementGuid>155f88b4-d90b-4649-9350-edf73397372f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billTos&quot;)/button[@class=&quot;btn float-right mt-n5 btn-primary&quot;]</value>
-      <webElementGuid>d843597e-1d55-4c91-a80a-36d132e92ab3</webElementGuid>
+      <webElementGuid>a883ee2f-8cd1-40de-aaa9-b3ac1f04893e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>e64df4af-fcc5-41c3-b718-c933d64f1e05</webElementGuid>
+      <webElementGuid>33be649f-72f4-4e34-bb12-8ce04187b74b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='billTos']/button</value>
-      <webElementGuid>29dade14-d497-499a-a8f1-1371bb52b7f3</webElementGuid>
+      <webElementGuid>f67ccc99-6c5f-42d1-905c-96adcfc08748</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill To(s)'])[1]/following::button[1]</value>
-      <webElementGuid>6d7c52f3-d1ca-43cf-b72c-a2db9c316a9d</webElementGuid>
+      <webElementGuid>6317da0e-2a3e-488d-b2c5-e07cc788af65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Source'])[1]/following::button[1]</value>
-      <webElementGuid>e6f14dc5-a1b1-4f94-941e-a631d6b402ef</webElementGuid>
+      <webElementGuid>40e58b15-f67c-4cad-a306-adf5a66f3a60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='per Page'])[1]/preceding::button[1]</value>
-      <webElementGuid>ce5ecbd1-cfaa-45dd-a8a9-4f3cd1e73f6e</webElementGuid>
+      <webElementGuid>dfd4c421-1808-473f-b048-1cf4947347f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[1]/preceding::button[1]</value>
-      <webElementGuid>f912fd9c-861d-43a7-ad7f-026ea99f7c92</webElementGuid>
+      <webElementGuid>76a61c06-4261-46f4-b174-27186c925ab4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Bill To']/parent::*</value>
-      <webElementGuid>eda6c104-ca18-4a81-b375-af2a50d88b1c</webElementGuid>
+      <webElementGuid>0cbf83cb-9e59-4332-be82-abfc6ed29e64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/button</value>
-      <webElementGuid>897416cb-7b07-4180-9b26-815383646f1f</webElementGuid>
+      <webElementGuid>984ccdc0-f77f-42a5-b0d0-a5930dc51c88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Add Bill To' or . = 'Add Bill To')]</value>
-      <webElementGuid>d1ed5c15-7bf0-4d99-9f33-55675af6d79d</webElementGuid>
+      <webElementGuid>50ade65e-ebfd-4a5c-ae33-699b32223e27</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

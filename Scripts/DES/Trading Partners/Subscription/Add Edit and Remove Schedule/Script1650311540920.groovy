@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://dx-portal.qa.thekag.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Approve a request on my Microsoft Authe_596d4b (16)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Advanced Filter___BVID__24 (16)'), 'katalon tp')
+WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Advanced Filter___BVID__24 (16)'), 'katalon trading')
 
 WebUI.delay(2)
 

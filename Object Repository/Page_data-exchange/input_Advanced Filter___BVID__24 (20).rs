@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Frequency_date</name>
+   <name>input_Advanced Filter___BVID__24 (20)</name>
    <tag></tag>
-   <elementGuidId>a01980e9-df77-439b-8c5c-7c66c6cc5f6c</elementGuidId>
+   <elementGuidId>8d911454-d271-4992-abe2-cbcee49524aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input</value>
+         <value>//input[@id='__BVID__24']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#datePicker</value>
+         <value>#__BVID__24</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>acfe7366-8fb2-4512-be47-c0efd8c84b3c</webElementGuid>
+      <webElementGuid>13eee1ee-54a5-49be-a29c-434254850305</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fd4b0e67-5db8-4559-829f-17273ca026b9</webElementGuid>
+      <webElementGuid>1cf1e864-74d1-479f-9a2f-2b757ee3744a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by Name...</value>
+      <webElementGuid>07fc18a9-6c3e-4753-a5bb-b8fc65f94de2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,63 +46,39 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>c2887dd7-a2c0-4162-9f71-ff9c7e47ecab</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>prepend</name>
-      <type>Main</type>
-      <value>clock</value>
-      <webElementGuid>6706c223-fd46-410e-9514-0b4f13d42edf</webElementGuid>
+      <webElementGuid>806c7112-2f15-450a-8452-119a2e5359a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>datePicker</value>
-      <webElementGuid>34a95f73-58eb-481a-ab16-12c05ac094ec</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>date</value>
-      <webElementGuid>957abac6-6deb-4b32-9ddf-246dd0832f07</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Select Date</value>
-      <webElementGuid>f903d7c0-92f9-4f82-8ac0-6908688bf5ee</webElementGuid>
+      <value>__BVID__24</value>
+      <webElementGuid>b84fde64-7f6c-4794-a13a-356f8f0fa692</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;datePicker&quot;)</value>
-      <webElementGuid>fb2d6222-b0ef-4d2b-b35a-349e16714cb3</webElementGuid>
+      <value>id(&quot;__BVID__24&quot;)</value>
+      <webElementGuid>8ad14bb1-d3a7-4dac-a416-7cd7c54d7a84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='datePicker']</value>
-      <webElementGuid>835cddb1-abd6-4035-b7b3-28f7e6657f54</webElementGuid>
+      <value>//input[@id='__BVID__24']</value>
+      <webElementGuid>74ad9729-0a65-4ef5-9c07-200347e4d501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='StartDateValue']/div/input</value>
-      <webElementGuid>31b10052-fbf2-485b-9a50-cb1c30dcec6e</webElementGuid>
+      <value>//div[@id='ContentsContainer']/div/div[3]/div/div[3]/div/input</value>
+      <webElementGuid>3dfaa154-fc25-4b78-b07c-c7ed8e14655c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +86,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>c1391405-b46a-4689-a044-11a6d8d2c35c</webElementGuid>
+      <webElementGuid>31d5b57d-71ad-448a-b0c9-4e664fb608db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'datePicker' and @name = 'date' and @placeholder = 'Select Date']</value>
-      <webElementGuid>47e85eda-9ee1-41db-88a6-851feefe1325</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Search by Name...' and @id = '__BVID__24']</value>
+      <webElementGuid>1fadb323-36fc-4b51-989b-70770749fd6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -38,9 +38,7 @@ WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Subs
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select a Transaction TypeFinancial D_642f55 (6)'), 
     '1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select.Inbound (2)'), 'in', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select.Real TimeScheduled (8)'), 'true', 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select.InboundOutbound (4)'), 'in', 
     true)
 
 WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Bill To (9)'))

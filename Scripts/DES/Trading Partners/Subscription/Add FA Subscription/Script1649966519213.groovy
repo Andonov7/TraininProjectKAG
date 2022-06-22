@@ -38,26 +38,17 @@ WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Add Subs
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select a Transaction TypeFinancial D_642f55 (3)'), 
     '6', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select.Inbound'), 'in', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select.Real TimeScheduled (5)'), 'true', 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select.InboundOutbound (4)'), 'out', 
     true)
 
-WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Description___BVID__91 (3)'), 'Subscription types')
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_data-exchange/select_Select.Real TimeScheduled (11)'), 
+    'true', true)
 
-WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add Bill To (6)'))
+WebUI.setText(findTestObject('Object Repository/Page_data-exchange/input_Description___BVID__109'), 'FA Subscription')
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_data-exchange/td_13THMIL (6)'))
+WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Save (19)'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_data-exchange/td_2001OILC (6)'))
-
-WebUI.doubleClick(findTestObject('Object Repository/Page_data-exchange/td_21STCENT (6)'))
-
-WebUI.click(findTestObject('Object Repository/KAG Portal/Page_data-exchange/button_Add (6)'))
-
-WebUI.click(findTestObject('Object Repository/Page_data-exchange/button_Save (10)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_data-exchange/h3_Functional Acknowledgement (FA)'), 0)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_data-exchange/h3_Functional Acknowledgement (FA) (1)'), 'Functional Acknowledgement (FA)')
 
 WebUI.closeBrowser()
 
